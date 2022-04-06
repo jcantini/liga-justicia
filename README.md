@@ -4,4 +4,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
 ## Notas
-Pueden hacer lo que quieran...
+En el próximo release, se agregarán más heroes y villanos.
